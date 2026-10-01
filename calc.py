@@ -1,7 +1,7 @@
 # calc.py - КОД С ОШИБКОЙ
 def add(a, b):
     # Ошибка: здесь должно быть a + b
-    return a - b
+       return a + b
 
 def main():
     result = add(5, 3)
