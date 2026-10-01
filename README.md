@@ -1,2 +1,10 @@
 # bug-fix-demo
-Add a README file
+
+Демонстрационный репозиторий для отработки GitHub workflow.
+
+## Файлы
+- `calc.py` — простая программа для сложения двух чисел
+
+## Запуск
+```bash
+python calc.py
